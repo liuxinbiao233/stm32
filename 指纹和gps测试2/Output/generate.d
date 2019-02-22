@@ -1,0 +1,12 @@
+..\..\output\generate.o: ..\..\User\nmea_decode\src\generate.c
+..\..\output\generate.o: ..\..\User\nmea_decode\include\nmea\../nmea/tok.h
+..\..\output\generate.o: ..\..\User\nmea_decode\include\nmea\../nmea/config.h
+..\..\output\generate.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\..\output\generate.o: ..\..\User\nmea_decode\include\nmea\../nmea/sentence.h
+..\..\output\generate.o: ..\..\User\nmea_decode\include\nmea\../nmea/info.h
+..\..\output\generate.o: ..\..\User\nmea_decode\include\nmea\../nmea/time.h
+..\..\output\generate.o: ..\..\User\nmea_decode\include\nmea\../nmea/generate.h
+..\..\output\generate.o: ..\..\User\nmea_decode\include\nmea\../nmea/units.h
+..\..\output\generate.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\..\output\generate.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\generate.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
